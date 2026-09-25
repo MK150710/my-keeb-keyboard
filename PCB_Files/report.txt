@@ -1,0 +1,24 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\The_Keyboard\The_Keyboard-F_Cu.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\The_Keyboard\The_Keyboard-B_Cu.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\The_Keyboard\The_Keyboard-F_Paste.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\The_Keyboard\The_Keyboard-B_Paste.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\The_Keyboard\The_Keyboard-F_Silkscreen.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\The_Keyboard\The_Keyboard-B_Silkscreen.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\The_Keyboard\The_Keyboard-F_Mask.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\The_Keyboard\The_Keyboard-B_Mask.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\The_Keyboard\The_Keyboard-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\The_Keyboard\The_Keyboard-job.gbrjob'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\PCB_Files\The_Keyboard-F_Cu.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\PCB_Files\The_Keyboard-B_Cu.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\PCB_Files\The_Keyboard-F_Paste.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\PCB_Files\The_Keyboard-B_Paste.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\PCB_Files\The_Keyboard-F_Silkscreen.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\PCB_Files\The_Keyboard-B_Silkscreen.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\PCB_Files\The_Keyboard-F_Mask.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\PCB_Files\The_Keyboard-B_Mask.gbr'.
+Plotted to 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\PCB_Files\The_Keyboard-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Desktop\Just_Maanvik\projects\Hack Club\KEEB\my-keeb-keyboard\PCB_Files\The_Keyboard-job.gbrjob'.
+Info: Done.
+Info: Done.
